@@ -21,6 +21,10 @@
 
 [Projetos](https://github.com/CarolinaCOliveira/JS_Projects/tree/main/Projetos)
 
+|      Projetos       |    Link do Código   |
+| ------------------- | ------------------- |
+|  Interface Netflix  |  [Código](https://github.com/CarolinaCOliveira/JavaScript_Projects/tree/main/Projetos/Interface_Netflix) |
+
 
 ![b22eea167950645f72475f35ee75179e](https://user-images.githubusercontent.com/100866803/168940343-ba7495cd-0190-473f-9341-4a87451ceec2.jpg)
 
