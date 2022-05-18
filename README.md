@@ -11,6 +11,14 @@
 
 [Games](https://github.com/CarolinaCOliveira/JS_Projects/tree/main/Games)
 
+|       Games         |    Link do Código   |
+| ------------------- | ------------------- |
+|    Jogo da Velha    |  [Código](https://github.com/CarolinaCOliveira/JavaScript_Projects/tree/main/Games/DesafioProjeto1_Jogo%20da%20Velha/jogo_da_velha_DIO) |
+|       Gênesis       |  [Código](https://github.com/CarolinaCOliveira/JavaScript_Projects/tree/main/Games/OrbiGames_Genesis/jogo_genesis) |
+|    Jurassic Game    |  [Código](https://github.com/CarolinaCOliveira/JavaScript_Projects/tree/main/Games/OrbiGames_Jurassic/jurassic_game) |
+|      Nave Game      |  [Código](https://github.com/CarolinaCOliveira/JavaScript_Projects/tree/main/Games/OrbiGames_Nave/nave_game) |
+|      Space Game     |  [Código](https://github.com/CarolinaCOliveira/JavaScript_Projects/tree/main/Games/OrbiGames_Space/jogo_space) |
+
 [Projetos](https://github.com/CarolinaCOliveira/JS_Projects/tree/main/Projetos)
 
 
