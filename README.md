@@ -1,4 +1,4 @@
-# JavaScript_Projects 
+# JavaScript_Initial_Projects
 
 [Desafios DIO](https://github.com/CarolinaCOliveira/JS_Projects/tree/main/Desafios%20DIO/JavaScript)
 
